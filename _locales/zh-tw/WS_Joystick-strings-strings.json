@@ -1,0 +1,16 @@
+{
+    "WS_Joystick|block": "WS搖桿",
+    "WS_Joystick.valueType.X|block":"X軸",
+    "WS_Joystick.valueType.Y|block":"Y軸",
+    "WS_Joystick.pushType.down|block":"按下",
+    "WS_Joystick.pushType.up|block":"放開",
+    "WS_Joystick.btnName.C|block":"C",
+    "WS_Joystick.btnName.D|block":"D",
+    "WS_Joystick.btnName.E|block":"E",
+    "WS_Joystick.btnName.F|block":"F",
+    "WS_Joystick.btnName.SW|block":"搖桿",
+    "WS_Joystick.getJoystickValue|block": "取得搖桿值： %myType",
+    "WS_Joystick.getCenterValue|block": "取得搖桿置中值： %myType",
+    "WS_Joystick.getBtnValue|block": "%myBtn|按鈕被按下?",
+    "WS_Joystick.onBtnChanged|block": "當|%myBtn|按鈕被|%dir"
+}

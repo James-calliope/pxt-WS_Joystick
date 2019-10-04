@@ -1,0 +1,15 @@
+{
+    "name": "WS_Joystick",
+    "version": "0.0.1",
+    "description": "這是專為micro:bit提供的WaveShare搖桿積木(This is the Joystick blocks for Waveshare)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-tw/WS_Joystick-strings.json"
+    ],
+    "public": true
+}
